@@ -49,7 +49,6 @@ I'm Systems Engineering student with Experience in Java, C++, Kotlin, HTML, CSS 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 
 - **Country:** Costa Rica
-- **Age:** 29 years old
 - **Student:** Information Systems Engineering at the National University of Costa Rica
 - **Passion:** Fervent passion for programming
 - **Skills:** I have honed my skills in various programming languages and tools, with versatility to tackle diverse technological challenges
